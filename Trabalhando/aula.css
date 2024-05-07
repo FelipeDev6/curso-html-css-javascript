@@ -1,0 +1,12 @@
+   body {
+      color: #c5c5b2;
+   }
+
+   a {
+      text-decoration: none;
+      color: black;
+      font-family: "Oswald", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+   }

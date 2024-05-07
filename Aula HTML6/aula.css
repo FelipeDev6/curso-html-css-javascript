@@ -1,0 +1,38 @@
+ body {
+        color: rgb(255, 255, 255);
+
+        /*Colocar imagem*/
+        background-color: aliceblue;
+
+        /*Proporção da imagem*/
+        background-size: 100%;
+
+        /*Repeat x , repeat y, no reapet, repeat (Repetir ou não a imagem)*/
+        background-repeat: no-repeat;
+
+        /* Fixed, Scrool (Fixar ou rolar a imagem ou o fundo junto)*/
+        background-attachment: fixed;
+
+        /*Primeiro valor: left, center, right
+        Segundo valor: top, center, bottom (Onde colocar a imagem)
+        */
+        background-position: left top;
+
+        }
+    
+    a {
+        text-decoration: none;
+        color: black;
+        margin: 5px;
+        font-family: "Jersey 10", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        }
+          
+
+    h2 {
+        background-color: black;
+        font-family: "Sedgwick Ave Display", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
